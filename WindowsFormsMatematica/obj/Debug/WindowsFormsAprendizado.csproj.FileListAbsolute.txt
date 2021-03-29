@@ -1,0 +1,10 @@
+C:\Projetos\ClassesEInterfaces\WindowsFormsAprendizado\bin\Debug\WindowsFormsAprendizado.exe.config
+C:\Projetos\ClassesEInterfaces\WindowsFormsAprendizado\bin\Debug\WindowsFormsAprendizado.exe
+C:\Projetos\ClassesEInterfaces\WindowsFormsAprendizado\bin\Debug\WindowsFormsAprendizado.pdb
+C:\Projetos\ClassesEInterfaces\WindowsFormsAprendizado\obj\Debug\WindowsFormsAprendizado.csprojAssemblyReference.cache
+C:\Projetos\ClassesEInterfaces\WindowsFormsAprendizado\obj\Debug\WindowsFormsAprendizado.Properties.Resources.resources
+C:\Projetos\ClassesEInterfaces\WindowsFormsAprendizado\obj\Debug\WindowsFormsAprendizado.csproj.GenerateResource.cache
+C:\Projetos\ClassesEInterfaces\WindowsFormsAprendizado\obj\Debug\WindowsFormsAprendizado.csproj.CoreCompileInputs.cache
+C:\Projetos\ClassesEInterfaces\WindowsFormsAprendizado\obj\Debug\WindowsFormsAprendizado.exe
+C:\Projetos\ClassesEInterfaces\WindowsFormsAprendizado\obj\Debug\WindowsFormsAprendizado.pdb
+C:\Projetos\ClassesEInterfaces\WindowsFormsAprendizado\obj\Debug\WindowsFormsAprendizado.Form1.resources
